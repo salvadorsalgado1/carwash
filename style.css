@@ -40,21 +40,17 @@ padding-top:100px;
 }
 
 .Second
-{
-    padding-top:100px;
+{   padding-top:100px;
     background-color:rgb(32, 32, 32);
-      background-size:auto;
-      height:100vh;
-      
-         background-position:center center;
-         background-repeat:no-repeat;
-      
-      display:flex;
-      justify-content:center;
-      align-items:center;
-   padding-bottom:100px;
+    background-size:auto;
+ 
+    background-position:center center;
+    background-repeat:no-repeat;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding-bottom:100px;
 }
-
 .Second div{
     display:flex;
     justify-content:center;
@@ -70,15 +66,10 @@ padding-top:100px;
    display:flex;
     justify-content:center;
     align-items:center;
- 
 }
-hr{
-    color:white;
-}
-
 .Third-1
 {
-    height:100vh;
+   
     padding-top:100px;
     background-image: url("images/wood.jpg");
     background-size:cover;
@@ -91,7 +82,7 @@ hr{
 }
 
 .Third-2{
-    height:100vh;
+  
     padding-top:100px;
     background-image: url("images/sand.jpg");
     background-size:cover;
@@ -105,7 +96,7 @@ hr{
 }
 .Third-3
 {
-    height:100vh;
+   
     padding-top:100px;
     background-image: url("images/ice2.jpg");
     background-size:cover;
